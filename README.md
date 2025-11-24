@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ismailsobhy/ismailsobhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi, I'm Ismail 👋  
+# Hello there, I am Ismail 👋  
 ### Senior SDET & Test Automation Engineer
 
 I am a Senior QA/SDET passionate about building clean, reliable, and scalable test automation frameworks.  
