@@ -46,10 +46,9 @@ I focus on simplifying automation, enabling collaboration, and leveraging AI-dri
 ---
 
 ## 📈 GitHub Stats
-
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailsobhy&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsobhy&layout=compact&theme=default)
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailsobhy&theme=default)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsobhy&layout=compact&theme=default)
+-->
 ---
 
 ## 🔗 Connect With Me
