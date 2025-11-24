@@ -26,7 +26,7 @@ I focus on simplifying automation, enabling collaboration, and leveraging AI-dri
 ## 🔧 Skills & Expertise
 
 - 🧪 **Test Automation:** Playwright, Selenium ,Appium (Android and iOS – WDA), Robot Framework  
-- 🐍 **Programming:** Python, Java, Typescript, Javascript.
+- ⚡  **Programming:** Python, Java, Typescript, Javascript.
 - ⚙️ **CI/CD:** GitHub Actions (composite & reusable workflows), pipelines, automation  
 - 📊 **Monitoring & Reporting:** Grafana, Slack integrations, Jira/Xray  
 - 🤖 **AI-Enhanced Automation:** MCPs, Playwright-mcp, Appium-mcp, Playwright agents, and more
